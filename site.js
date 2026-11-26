@@ -1,7 +1,7 @@
 // ─── Clinic contact: change these two values once, the whole site updates ───
-const CLINIC_PHONE = '+919999999999';        // used for tel: links
-const CLINIC_WHATSAPP = '919999999999';      // country code + number, no "+" or spaces
-const PHONE_DISPLAY = '+91 99999 99999';
+const CLINIC_PHONE = '+919999199012';        // used for tel: links
+const CLINIC_WHATSAPP = '919999199012';      // country code + number, no "+" or spaces
+const PHONE_DISPLAY = '+91 99991 99012';
 
 document.documentElement.classList.add('js');
 
